@@ -1,4 +1,4 @@
-# Sentiment Classification of IMDB Movie Reviews using IBM Granite
+# Sentiment Classification of IMDB Movie Reviews using IBM Granite 
 
 #### Hacktiv8 Capstone Project: Data Classification and Summarization Using IBM Granite
 
