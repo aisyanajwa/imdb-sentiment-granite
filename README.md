@@ -9,7 +9,7 @@
 - **Sumber**: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 - **Deskripsi**: Dataset untuk klasifikasi sentimen biner (positif/negatif) dengan 50.000 ulasan film.
-- [Link Colab](https://colab.research.google.com/drive/1IkPIArdamVR-KEuibIrAahxjfqAFtQPs?usp=sharing)
+- [Link Colab](https://colab.research.google.com/drive/1IkPIArdamVR-KEuibIrAahxjfqAFtQPs?usp=sharing) dan [Link PPT](https://www.canva.com/design/DAGuzsVr5KY/6aJeFhWEJREEoFVXK95tMQ/view?utm_content=DAGuzsVr5KY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcb63847c3b)
 
 ---
 
@@ -42,7 +42,7 @@ Proyek ini bertujuan untuk mengklasifikasikan sentimen (positif atau negatif) da
 
 ### 3. Pembersihan Output
 - Output model disaring agar hanya menyisakan hasil "positive" atau "negative".
-- Pembersihan dilakukan menggunakan aturan berbasis regular expression (regex).
+- Pembersihan dilakukan menggunakan aturan sederhana berbasis pencocokan kata kunci ('positive' dan 'negative') pada string.
 
 ### 4. Evaluasi Akurasi
 - Perbandingan antara label `sentiment` (asli) dan `sentiment_ibm` (hasil prediksi).
