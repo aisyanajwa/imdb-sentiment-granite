@@ -47,7 +47,8 @@ Proyek ini bertujuan untuk mengklasifikasikan sentimen (positif atau negatif) da
 ### 4. Evaluasi Akurasi
 - Perbandingan antara label `sentiment` (asli) dan `sentiment_ibm` (hasil prediksi).
 - Akurasi model pada sampel data mencapai 93%.
-
+- Menggunakan confusion matrix, akurasi, precision, recall, dan F1-score.
+  
 ### 5. Visualisasi
 Visualisasi data dilakukan dengan bantuan LangChain `pandas_dataframe_agent`, yaitu agent berbasis LLM yang dapat menjalankan instruksi analitik langsung terhadap `DataFrame`. Visualisasi yang dilakukan:
 - Bar chart distribusi sentimen.
