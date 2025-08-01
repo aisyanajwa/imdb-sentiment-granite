@@ -9,6 +9,7 @@
 - **Sumber**: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 - **Deskripsi**: Dataset untuk klasifikasi sentimen biner (positif/negatif) dengan 50.000 ulasan film.
+- [Link Colab](https://colab.research.google.com/drive/1IkPIArdamVR-KEuibIrAahxjfqAFtQPs?usp=sharing)
 
 ---
 
